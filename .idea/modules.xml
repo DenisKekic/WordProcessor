@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/WordProcessor.iml" filepath="$PROJECT_DIR$/.idea/WordProcessor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Word_Processor/Word_Processor.iml" filepath="$PROJECT_DIR$/Word_Processor/Word_Processor.iml" />
+    </modules>
+  </component>
+</project>
